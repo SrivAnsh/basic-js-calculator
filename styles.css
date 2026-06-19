@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.output {
+    min-width: 400px;
+    min-height: 100px;
+    box-sizing: border-box;
+}
+
+#buttons {
+    display: flex;
+    flex-direction: column;
+}
+
+.row {
+    display: flex;
+}
+
+.number, .operator, .answer, .delete {
+    min-width: 100px;
+    min-height: 100px;
+    font-size: 50px;
+}
+
