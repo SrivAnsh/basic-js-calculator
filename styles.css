@@ -5,9 +5,10 @@ body {
 
 
 .output {
-    min-width: 400px;
-    min-height: 100px;
+    width: 400px;
+    height: 100px;
     box-sizing: border-box;
+    font-size: 50px;
 }
 
 #buttons {
